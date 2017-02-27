@@ -1,0 +1,38 @@
+body{
+	font-family: sans-serif;
+	position: relative;
+}
+
+#box{
+	
+	margin-left: 40%;
+	margin-top:20%;
+}
+
+#num1{
+	margin-left: 20%;
+}
+
+/*
+#button{
+	border:none;
+	padding:4px 10px;
+	cursor: pointer;
+	margin-right:5px;
+}
+*/
+ul{
+	position: absolute;
+	text-align: center;
+}
+
+
+li{
+	list-style:none;
+	background:#C0392B;
+	color:#FFF;
+	float:left;
+	margin-right: 5px;
+	padding:4px 10px;
+}
+
